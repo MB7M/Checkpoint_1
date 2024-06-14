@@ -33,5 +33,5 @@ do
   création_utilisateur "$nom_utilisateur"
 done
 
-# Commandes 
-
+# Lien vers la sortie du script  
+# ![commandes](https://github.com/MB7M/Checkpoint_1/blob/c608ff039f0676622103cec8e8b73fed7d04ecf3/Images/script.png)
