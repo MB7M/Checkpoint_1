@@ -10,4 +10,14 @@
 ![Montages](Images/partitions_sdb_montées.png)
 
 ### Montage automatique au démarrage
-![Montages](Images/UUID_du_disque.png)
+![Montages](Images/UUID.png)
+
+![Montages](Images/montage_automatique_fstab.png)
+
+### Désactivation du SWAP sur le 1er disque 
+
+![Montages](Images/desactivation_premierswap.png)
+
+### Resultat
+
+![Montages](Images/visu_final.png)
